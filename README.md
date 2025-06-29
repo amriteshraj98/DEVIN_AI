@@ -2,21 +2,21 @@
 # DevCollab - AI Powered Chat APP
 Developed full-stack chat application using MongoDB, Express, React, and Node.js (MERN), enabling user authentication (signup/login) and project creation.
 
-Implemented collaborative chat functionality, allowing registered users to add collaborators and seamlessly communicate within project-specific chatrooms.
+- Implemented collaborative chat functionality, allowing registered users to add collaborators and seamlessly communicate within project-specific chatrooms.
 
-Integrated Gemini API (Google's LLM) into the chat interface to provide AI‑driven insights, auto‑responses, or suggestions directly within project conversations.
+- Integrated Gemini API (Google's LLM) into the chat interface to provide AI‑driven insights, auto‑responses, or suggestions directly within project conversations.
 
-Designed RESTful API endpoints for user management, project operations, collaborator invitations, and message handling, ensuring secure and scalable backend interactions.
+- Designed RESTful API endpoints for user management, project operations, collaborator invitations, and message handling, ensuring secure and scalable backend interactions.
 
-Built React-based front‑end UI featuring real-time chat updates (via Socket.io or similar) and dynamic forms for project/collaborator setup and AI‑assisted chat responses.
+- Built React-based front‑end UI featuring real-time chat updates (via Socket.io or similar) and dynamic forms for project/collaborator setup and AI‑assisted chat responses.
 
-Managed state and async operations using Redux or Context API, handling user sessions, chat streams, and AI response workflows smoothly.
+- Managed state and async operations using Redux or Context API, handling user sessions, chat streams, and AI response workflows smoothly.
 
-Deployed the application on [platform you used, e.g., Vercel/Heroku/AWS], including CI/CD pipelines and environment configuration for MongoDB, Node.js, and Gemini API keys.
+- Deployed the application on [platform you used, e.g., Vercel/Heroku/AWS], including CI/CD pipelines and environment configuration for MongoDB, Node.js, and Gemini API keys.
 
-Ensured modular, maintainable code practices via component-based React structure, model‑controller‑route architecture in Express, and environment-based configuration.
+- Ensured modular, maintainable code practices via component-based React structure, model‑controller‑route architecture in Express, and environment-based configuration.
 
-Tested application functionality through unit/integration tests for backend APIs, and end‑to‑end flow validation for user registration, chat flows, and AI integration.
+- Tested application functionality through unit/integration tests for backend APIs, and end‑to‑end flow validation for user registration, chat flows, and AI integration.
 
 ## Expanding the ESLint configuration
 
